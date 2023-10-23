@@ -27,7 +27,7 @@ To detect the speed of objects in a video or camera stream, run the following co
 
 ```bash
 python speed_detection.py --input <input_video> --output <output_video>
-
+```
 ## How It Works
 
 The speed detection algorithm works by performing the following steps:
