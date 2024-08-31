@@ -1,4 +1,4 @@
-# speed-detection
+
 # Speed Detection Using OpenCV
 
 ## Overview
