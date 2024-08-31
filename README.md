@@ -11,13 +11,13 @@ This project uses OpenCV to detect the speed of moving objects in videos or came
 
    ```bash
    git clone https://github.com/your-username/speed-detection-opencv.git
-# Install the required Python libraries and dependencies:
+## Install the required Python libraries and dependencies:
 pip install -r requirements.txt
 
-# Download the YOLOv3 weights for object detection:
+## Download the YOLOv3 weights for object detection:
 wget https://pjreddie.com/media/files/yolov3.weights -O yolo-coco/yolov3.weights
 
-# Download the YOLOv3 configuration file:
+## Download the YOLOv3 configuration file:
 wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg -O yolo-coco/yolov3.cfg
 
 
